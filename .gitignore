@@ -1,0 +1,8 @@
+node_modules
+npm-debug.log
+.next/
+variables.env
+node_modules
+dist/ui.js
+dist/code.js
+dist/*

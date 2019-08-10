@@ -1,0 +1,7 @@
+{
+  "name": "Humaaans for Figma",
+  "id": "739503328703046360",
+  "api": "1.0.0",
+  "main": "dist/code.js",
+  "ui": "dist/ui.html"
+}
