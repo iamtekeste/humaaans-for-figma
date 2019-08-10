@@ -1,22 +1,14 @@
-This plugin template uses Typescript. If you are familiar with Javascript, Typescript will
-look very familiar. In fact, valid Javascript code is already valid Typescript code.
+# Humaaans for Figma
 
-Typescript adds type annotations to variables. This allows code editors such as Visual Studio Code
-to provide information about the Figma API while you are writing code, as well as help catch bugs
-you previously didn't notice.
+![alt text](https://s3-alpha-sig.figma.com/plugins/739503328703046360/494/e2a89d3c-37d8-47cf-8d10-8f9db80bbe77-cover?Expires=1566172800&Signature=TPSot8P0zIja5nWvUzRItD3d5WcoUf6vJxz~IyRcYcYjOYUvkMp5-R317nw9rc2CQiUhLEcc6Vi75Q972KAtG0OCQhYrncofqMccAEdRjVuEl9tZFRYgeziQIJXoF74Qq4l1-UEA2xTf9Ey6cToOylu4Ouy-zgt-lRFnUH0i6aRZHH4p0fG428XUS8bOtwAM2yZj4rXiKt-zyuKCMDAxEawAyx4Gft9IhBkcWhkCtNS1QJT0YYazcP48OztuJHBm6Hze8XQ52cAOg7hoAeSiyT-7yj1ODz5bxYBPbRvosBg2qd0op2LBZQOYGIn5NrjOa6qjY3ua5aElw0hjw4TApg__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA 'Logo Title Text 1')
 
-For more information, visit https://www.typescriptlang.org/
+This plugin brings the amazing illustations library called [Humaaans](https://www.humaaans.com) by Pablo Stanley to Figma.
+With Humaaans you can either use the already premade people illustrations or mix-&-match illustrations of different human elements and create unique illustations that go with any web or mobile app design.
+You can create your own remix by changing the hairdos, tops, and pants.
+Add a bit of ambience to your content by adding different kinds of scenes and objects.
 
-Using Typescript requires a compiler to convert Typescript (code.ts) into Javascript (code.js)
-for the browser to run.
+To use this plugin all you have to do is click on the illustration you like and it will be added automatically to your Figma document.
 
-To get the TypeScript compiler working:
+# Install
 
-1. Download Visual Studio Code if you haven't already: https://code.visualstudio.com/.
-2. Install the TypeScript compiler globally: `sudo npm install -g typescript`.
-3. Open this directory in Visual Studio Code.
-4. Compile TypeScript to JavaScript: Run the "Terminal > Run Build Task..." menu item,
-    then select "tsc: watch - tsconfig.json". You will have to do this again every time
-    you reopen Visual Studio Code.
-
-That's it! Visual Studio Code will regenerate the JavaScript file every time you save.
+Get it now from [Figma.com](https://www.figma.com/c/plugin/739503328703046360/Humaaans-for-Figma)
