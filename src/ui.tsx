@@ -67,8 +67,8 @@ class App extends React.Component {
         />
         <div className="credits">
           made by{' '}
-          <a target="_blank" href="https://twitter.com/iamtekeste">
-            @iamtekeste{' '}
+          <a target="_blank" href="https://twitter.com/tkmadeit">
+            @tkmadeit{' '}
           </a>
           with illustrations from{' '}
           <a target="_blank" href="https://www.humaaans.com/">
